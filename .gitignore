@@ -1,0 +1,9 @@
+.DS_Store
+*.docx
+*.pdf
+*.doc
+*.zip
+.env
+.env.*
+outputs/
+private/

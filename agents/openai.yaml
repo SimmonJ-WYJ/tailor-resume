@@ -1,0 +1,4 @@
+interface:
+  display_name: "岗位定制简历 · Tailor Resume"
+  short_description: "根据真实经历与岗位 JD 定制中英文简历，导出 Word 和 PDF。"
+  default_prompt: "使用 $tailor-resume，根据我的原始简历和目标岗位 JD 定制简历。请让我选择中文、英文或中英文，并生成可下载的 Word 和 PDF。"
